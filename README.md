@@ -5,4 +5,4 @@ Flutter chat-app utilizes firebase for message storing and user authorization.  
 Working to implement separate group messaging and multiple pvp messaging/support.
 
 ## Demo
-![](flash_01.gif) ![](flash_02.gif)
+![](flash_01.gif)
